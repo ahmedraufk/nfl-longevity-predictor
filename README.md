@@ -12,3 +12,12 @@ Our project is to make a model that can predict how long a player can play in th
 4. Pollock, Jordan Riley et al. “Can NFL Combine Results be Used to Estimate NFL Defensive Players Longevity?.” Sports medicine international open vol. 5,2 E59-E64. 10 Aug. 2021, doi:10.1055/a-1485-0031
 5. LaPlaca, David A, and Bryan A McCullick. “National Football League Scouting Combine Tests Correlated to National Football League Player Performance.” Journal of strength and conditioning research vol. 34,5 (2020): 1317-1329. doi:10.1519/JSC.0000000000003479
 6. Hedlund, David P. “Performance of Future Elite Players at the National Football League Scouting Combine.” Journal of strength and conditioning research vol. 32,11 (2018): 3112-3118. doi:10.1519/JSC.0000000000002252
+
+## Project Timeline Chart
+https://docs.google.com/spreadsheets/d/12l_n6g7ghG1ML6eQuEH1AFo9VHdABnvW6aZxb_c0lxE/edit?usp=sharing
+
+## Project Proposal Video
+https://youtu.be/eD4rLBb4FOw
+
+## Dataset(s)
+[https://nflcombineresults.com/nflcombinedata.php?year=1987&pos=&college=](https://nflcombineresults.com/nflcombinedata.php)
