@@ -18,11 +18,11 @@ Our project is to make a model that can predict how long a player can play in th
 ## Contribution Table
 | Member | Contribution |
 | ----------- | ----------- |
-| Ahmed | Created Github Page and did literature review |
-| Shonjoy | Created Proposal Video |
-| Rohan | Researched Potential Datasets for Model |
-| Joe | Created Gantt Chart to organize Project |
-| Shantanu | Drafted Proposal Write up |
+| Ahmed | {::nomarkdown} Created Github Page and did literature review |
+| Shonjoy |{::nomarkdown}  Created Proposal Video |
+| Rohan | {::nomarkdown} Researched Potential Datasets for Model |
+| Joe | {::nomarkdown} Created Gantt Chart to organize Project |
+| Shantanu | {::nomarkdown} Drafted Proposal Write up |
 
 ## Project Proposal Video
 [https://youtu.be/eD4rLBb4FOw](https://youtu.be/eD4rLBb4FOw)
