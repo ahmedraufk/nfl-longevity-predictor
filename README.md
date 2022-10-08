@@ -15,6 +15,14 @@ Our project is to make a model that can predict how long a player can play in th
 
 ## Project Timeline Chart and Task Assignment 
 [https://docs.google.com/spreadsheets/d/12l_n6g7ghG1ML6eQuEH1AFo9VHdABnvW6aZxb_c0lxE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/12l_n6g7ghG1ML6eQuEH1AFo9VHdABnvW6aZxb_c0lxE/edit?usp=sharing)
+## Contribution Table
+| Member | Contribution |
+| ----------- | ----------- |
+| Ahmed | Created Github Page and did literature review |
+| Shonjoy | Created Proposal Video |
+| Rohan | Researched Potential Datasets for Model |
+| Joe | Created Gantt Chart to organize Project |
+| Shantanu | Drafted Proposal Write up |
 
 ## Project Proposal Video
 [https://youtu.be/eD4rLBb4FOw](https://youtu.be/eD4rLBb4FOw)
